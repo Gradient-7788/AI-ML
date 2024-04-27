@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on wee bit of Data Analysis and visualisation
 - 🌱 I’m currently learning Mechanical Engineering in IIT Guwahati (1st yearite)
 - 🤔 I’m looking for help with some deep learning algorithms and OpenCV
