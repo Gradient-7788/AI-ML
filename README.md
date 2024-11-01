@@ -9,33 +9,41 @@ I'm a Sophomore in Electrical and Communication Engineering at IIT Guwahati, wit
 
 ## 🤖 Projects and Innovations
 
-### 1. Mitra AgriBot: Plant and Weed Identification 🌱
+### 1. SLAM with AI Integration 🤖
+- Working on Simultaneous Localization and Mapping (SLAM) under professor guidance
+- Collecting and processing LiDAR data for environmental mapping
+- Developing AI/ML algorithms to optimize and accelerate SLAM performance
+- Focus on real-time processing and efficient mapping on local machines
+
+### 2. Mitra AgriBot: Plant and Weed Identification 🌱
 - Developed a low-latency real-time model for identifying plants and weeds
 - Optimized for efficient agricultural robotics application
 - Focused on creating a robust, fast-inference solution
 
-### 2. Speech Emotion Detection 🎙️ (Currently working)
+### 3. Speech Emotion Detection 🎙️
 - Implementing a cutting-edge CNN-based emotion detection system
 - Utilizing custom signal processing techniques for audio augmentation
 - Leveraging spectrograms for enhanced emotion recognition
 - Applied knowledge from Signals and Systems course
 
-### 3. Real vs AI-Generated Image Detection 🖼️
+### 4. Real vs AI-Generated Image Detection 🖼️
 - Created a custom ResNet model from scratch
 - Designed a shallower architecture for increased efficiency
 - Reduced training time while maintaining high accuracy
 - Project released through Coding Club
 
-### 4. Sports AI Data Analysis 📊
+### 5. Sports AI Data Analysis 📊
 - Conducted comprehensive data analysis project
 - Released by AI Club, demonstrating data science skills
 
-### 5. Image Compression with Singular Value Decomposition 🖥️
-- Implemented SVD technique without using built-in functions
-- Generated low-resolution images
+### 6. Image Compression with SVD & Feature Engineering with PCA 🖥️
+- Implemented Singular Value Decomposition technique without using built-in functions
+- Generated low-resolution images using SVD
+- Applied Principal Component Analysis (PCA) for dimensionality reduction
+- Optimized feature selection in data science projects under DSAI minor
 - Deep dive into mathematical foundations of linear algebra
 
-### 6. Hugging Face Chatbot 💬
+### 7. Hugging Face Chatbot 💬
 - Developed an interactive chatbot for AI Club
 - Fine-tuned model parameters for improved response generation
 
@@ -43,6 +51,8 @@ I'm a Sophomore in Electrical and Communication Engineering at IIT Guwahati, wit
 - Generative AI
 - Generative Adversarial Networks (GANs)
 - Advanced Machine Learning Techniques
+- Robotics and SLAM
+- AI Optimization Algorithms
 
 ## 🌟 Philosophy
 I'm driven by an insatiable curiosity to explore the frontiers of artificial intelligence. Each project is a journey of learning, pushing boundaries, and transforming theoretical knowledge into practical innovations.
